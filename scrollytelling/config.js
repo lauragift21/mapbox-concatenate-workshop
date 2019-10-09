@@ -1,9 +1,9 @@
 var config = {
-    style: 'YOUR_STYLE_URL', //TODO
-    accessToken: 'YOUR_ACCESS_TOKEN', //TODO
-    title: 'YOUR MAP TITLE', //TODO
-    subtitle: 'YOUR MAP SUBTITLE', //TODO
-    byline: 'By YOUR NAME', //TODO
+    style: 'mapbox://styles/lauragift21/ck1j5amev01341cp4xjnj2p5u',
+    accessToken: 'pk.eyJ1IjoibGF1cmFnaWZ0MjEiLCJhIjoiY2sxajB2dzNvMDZnajNkcDc5dGhkMTYyYiJ9.GQrnUvIWEjN0Mm5w4eAy0Q',
+    title: 'My Travel Journal',
+    subtitle: 'I attended Anjana\'s workshop on building custom interactive map and here\'s what I came up with',
+    byline: 'Gift Egwuenu',
     footer: 'Created at Concatenate Lagos 2019',
     showMarkers: false,
     theme: 'light',
